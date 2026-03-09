@@ -1,1 +1,56 @@
-# DeepLearningWorkshop  ## Overview DeepLearningWorkshop is a repository containing practical workshops and experiments in Deep Learning.   The goal of this project is to explore, implement, and compare different neural network architectures and analyze their performance on various machine learning tasks.  This repository provides hands-on examples to better understand how different deep learning models work and how architectural choices influence model accuracy, complexity, and efficiency.  ## Objectives - Learn and practice Deep Learning techniques - Implement different neural network architectures - Compare model performance and computational complexity - Understand the advantages and limitations of each model - Provide educational workshops for students and researchers  ## Architectures Covered The repository may include implementations and experiments with:  - Convolutional Neural Networks (CNN) - Recurrent Neural Networks (RNN) - Long Short-Term Memory (LSTM) - Bidirectional LSTM (BiLSTM) - Transformers - Lightweight Deep Learning Models  ## Repository Structure
+# DeepLearningWorkshop
+
+## Overview
+**DeepLearningWorkshop** is a repository dedicated to practical workshops and experiments in **Deep Learning**.  
+It includes implementations and comparative studies of different neural network architectures to analyze their performance, complexity, and efficiency.
+
+This project is designed for students, researchers, and practitioners who want to explore deep learning through hands-on experimentation.
+
+---
+
+## Objectives
+The main goals of this repository are:
+
+- Explore fundamental **Deep Learning architectures**
+- Implement different neural network models
+- Compare models in terms of **performance and computational cost**
+- Provide practical **workshops and experiments**
+- Facilitate learning using **Jupyter notebooks**
+
+---
+
+## Deep Learning Architectures Covered
+
+This repository includes experiments with several architectures:
+
+- Convolutional Neural Networks (**CNN**)
+- Recurrent Neural Networks (**RNN**)
+- Long Short-Term Memory (**LSTM**)
+- Bidirectional LSTM (**BiLSTM**)
+- Transformer-based models
+- Lightweight deep learning models
+
+---
+
+
+## Tools and Frameworks
+
+The workshops use the following technologies:
+
+- Python
+- TensorFlow / Keras
+- PyTorch
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Jupyter Notebook
+
+---
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/DeepLearningWorkshop.git
+cd DeepLearningWorkshop
